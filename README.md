@@ -1,1 +1,2 @@
-# parallex-effect-
+# parallex-effect
+learning parallex effect
